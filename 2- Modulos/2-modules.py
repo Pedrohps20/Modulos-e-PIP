@@ -1,0 +1,1 @@
+help('modules') # vai listar todos os modelus builtin - na documentação do python tem as especificações mais detalhadas

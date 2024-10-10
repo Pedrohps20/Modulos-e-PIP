@@ -1,0 +1,8 @@
+Para utilizar o módulo em python pode criar dois script - um é o módulo e o outro é o script q vai usar o módulo
+
+Módulo HTTPServer
+	No terminal eu busco meu ip pelo "ipconfig"
+	Para iniciar o servidor eu digito "python -m http.server" (será iniciado no diretório que ele está)
+
+Módulo Webbrowser
+	
